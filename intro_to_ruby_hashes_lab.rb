@@ -44,10 +44,8 @@ monopoly =
     
     :names =>
     {
-      :reading_railroad =>
-      {
-        "mortgage_value" => "$100"
-      },
+      :reading_railroad => {"mortgage_value" => "$100"},
+      
       :pennsylvania_railroad =>
       {
         "mortgage_value" => "$200"
